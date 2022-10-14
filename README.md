@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peaperfish
+- 👋 Hi, I’m @ Brian Wang
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me wm20062006@gmail.com
