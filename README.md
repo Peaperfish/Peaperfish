@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Brian Wang
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in Python, Java, C++, and C#
+- 🌱 I’m currently learning Java
 - 📫 How to reach me wm20062006@gmail.com
 
 <!---
