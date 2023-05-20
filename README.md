@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Brian Wang
-- 🍁 Student in Canada, fluent in Engilsh, French, and Chinese.
+- 🍁 Student in Canada, fluent in Engilsh and Chinese.
 - 👀 I’m interested in Python, Java, C++, C, and C#
 - 🌱 I’m currently learning Java
 - 📫 How to reach me wm20062006@gmail.com
