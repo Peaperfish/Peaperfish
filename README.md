@@ -21,6 +21,6 @@ Python · Java · C++ · C · C# · Rust · Unity · Git
 
 ## Contact
 
-📫 wm20062006@gmail.com
+📫 brian.wang.pkg@gmail.com
 
 <sub>Unless a repo says otherwise, please don't use my code commercially.</sub>
