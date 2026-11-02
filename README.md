@@ -12,8 +12,11 @@ Student at the University of Toronto 🍁 · English & 中文
 **[storytold/lightcraft](https://github.com/storytold/lightcraft)**
 - 🎨 Sony α7R V camera colour profile, calibrated from my own shots ([#3022](https://github.com/storytold/lightcraft/pull/3022), merged)
 - 🖼️ Transparent PNG / TIFF / WebP export ([#3116](https://github.com/storytold/lightcraft/pull/3116), in review)
-- 📝 Docs fix for bundled camera profiles ([#3027](https://github.com/storytold/lightcraft/pull/3027))
-- 🧹 Fix for a clippy error on the newest Rust in the macOS menu code ([#3295](https://github.com/storytold/lightcraft/pull/3295))
+- 🎭 AI masks no longer grow along the photo's edges ([#3298](https://github.com/storytold/lightcraft/pull/3298), merged)
+- 👥 People badge shows the full face count ([#3297](https://github.com/storytold/lightcraft/pull/3297), merged)
+- 📝 Docs fix for bundled camera profiles ([#3027](https://github.com/storytold/lightcraft/pull/3027), merged)
+- 📝 README no longer lists a removed MCP mask helper ([#3296](https://github.com/storytold/lightcraft/pull/3296), merged)
+- 🧹 Fix for a clippy error on the newest Rust in the macOS menu code ([#3295](https://github.com/storytold/lightcraft/pull/3295), merged)
 
 ## Languages & tools
 
