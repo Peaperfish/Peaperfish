@@ -20,7 +20,7 @@ Student at the University of Toronto 🍁 · English & 中文
 
 ## Languages & tools
 
-Python · Java · C++ · C · C# · Rust · Unity · Git
+Python · Java · C++ · C · C# · Rust · Unity · Git · R
 
 ## Contact
 
