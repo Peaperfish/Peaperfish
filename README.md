@@ -1,6 +1,6 @@
 # Hi, I'm Brian 👋
 
-Student at the University of Toronto 🍁 · English & 中文
+Student at the University of Toronto · English & 中文
 
 - 🔧 Interning in embedded firmware (EV charging)
 - 📸 Photographer, shooting on a Sony α7R V
